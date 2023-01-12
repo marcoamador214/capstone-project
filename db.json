@@ -1,0 +1,391 @@
+{
+    "offense": [
+        {
+            "id": 1,
+            "name": "Sam Jackson V",
+            "number": "16",
+            "position": "QB",
+            "Hometown": "Chicago, IL",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 2,
+            "name": "Fernando Mendoza",
+            "number": "15",
+            "position": "QB",
+            "Hometown": "Miami, FL",
+            "Class": "RS Freshman"
+        },
+        {
+            "id": 3,
+            "name": "Zach Johnson",
+            "number": "17",
+            "position": "QB",
+            "Hometown": "Valencia, CA",
+            "Class": "RS Junior"
+        },
+        {
+            "id": 5,
+            "name": "Jaydn Ott",
+            "number": "6",
+            "position": "RB",
+            "Hometown": "Norco, CA",
+            "Class": "Sophomore"
+        },
+        {
+            "id": 6,
+            "name": "Byron Cardwell",
+            "number": "21",
+            "position": "RB",
+            "Hometown": "San Diego, CA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 7,
+            "name": "Justin Williams-Thomas",
+            "number": "24",
+            "position": "RB",
+            "Hometown": "Dallas, GA",
+            "Class": "RS Freshman"
+        },
+        {
+            "id": 8,
+            "name": "Jaivian Thomas",
+            "number": "28",
+            "position": "RB",
+            "Hometown": "Oakland, CA",
+            "Class": "Freshman"
+        },
+        {
+            "id": 9,
+            "name": "Ashton Stredick",
+            "number": "31",
+            "position": "RB",
+            "Hometown": "Needville, TX",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 10,
+            "name": "Brian Hightower",
+            "number": "7",
+            "position": "WR",
+            "Hometown": "Los Angeles, CA",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 11,
+            "name": "Nyziah Hunter",
+            "number": "88",
+            "position": "WR",
+            "Hometown": "Salinas, CA",
+            "Class": "Freshman"
+        },
+        {
+            "id": 12,
+            "name": "Mavin Anderson",
+            "number": "11",
+            "position": "WR",
+            "Hometown": "Mission Viejo, CA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 13,
+            "name": "Monroe Young",
+            "number": "14",
+            "position": "WR",
+            "Hometown": "Las Cruces, NM",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 14,
+            "name": "Mason Starling",
+            "number": "18",
+            "position": "WR",
+            "Hometown": "Tacoma, WA",
+            "Class": "Senior"
+        },
+        {
+            "id": 15,
+            "name": "Jeremiah Hunter",
+            "number": "3",
+            "position": "WR",
+            "Hometown": "Fresno, CA",
+            "Class": "Senior"
+        },
+        {
+            "id": 16,
+            "name": "Justin Richard Baker",
+            "number": "22",
+            "position": "WR",
+            "Hometown": "Bellevue, WA",
+            "Class": "Senior"
+        },
+        {
+            "id": 17,
+            "name": "Aidan Lee",
+            "number": "29",
+            "position": "WR",
+            "Hometown": "Mesa, AZ",
+            "Class": "Senior"
+        },
+        {
+            "id": 18,
+            "name": "JT Byrne",
+            "number": "87",
+            "position": "TE",
+            "Hometown": "Carmel, CA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 19,
+            "name": "Asher Alberding",
+            "number": "89",
+            "position": "TE",
+            "Hometown": "Houston, TX",
+            "Class": "RS Junior"
+        },
+        {
+            "id": 20,
+            "name": "Ben Marshall",
+            "number": "86",
+            "position": "TE",
+            "Hometown": "Murfreesboro, TN",
+            "Class": "Freshman"
+        },
+        {
+            "id": 21,
+            "name": "Brian Driscoll",
+            "number": "60",
+            "position": "OL",
+            "Hometown": "San Diego, CA",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 22,
+            "name": "Brayden Rohme",
+            "number": "63",
+            "position": "OL",
+            "Hometown": "Chandler, AZ",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 23,
+            "name": "Sioape Vatikani",
+            "number": "71",
+            "position": "OL",
+            "Hometown": "Reno, NV",
+            "Class": "Sophomore"
+        },
+        {
+            "id": 24,
+            "name": "TJ Session",
+            "number": "72",
+            "position": "OL",
+            "Hometown": "Menifee, CA",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 25,
+            "name": "Matthew Cindric",
+            "number": "73",
+            "position": "OL",
+            "Hometown": "Sammamish, WA",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 21,
+            "name": "Bastian Swinney",
+            "number": "76",
+            "position": "OL",
+            "Hometown": "Minneapolis, MN",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 22,
+            "name": "Everett Johnson",
+            "number": "77",
+            "position": "OL",
+            "Hometown": "Turlock, CA",
+            "Class": "Senior"
+        }
+    ],
+
+    "defense": [
+        {
+            "id": 23,
+            "name": "Tyson McWilliams",
+            "number": "11",
+            "position": "CB",
+            "Hometown": "San Diego, CA",
+            "Class": "RS Junior"
+        },
+        {
+            "id": 24,
+            "name": "Lu-Magia Hearns",
+            "number": "15",
+            "position": "CB",
+            "Hometown": "Pittsburg, CA",
+            "Class": "Junior"
+        },
+        {
+            "id": 25,
+            "name": "Cam Sidney",
+            "number": "20",
+            "position": "CB",
+            "Hometown": "Riverside, CA",
+            "Class": "Sophomore"
+        },
+        {
+            "id": 26,
+            "name": "Collin Gamble",
+            "number": "21",
+            "position": "CB",
+            "Hometown": "Flower Mound, TX",
+            "Class": "Senior"
+        },
+        {
+            "id": 27,
+            "name": "Jeremiah Earby",
+            "number": "29",
+            "position": "CB",
+            "Hometown": "East Palo Alto, CA",
+            "Class": "Sophomore"
+        },
+        {
+            "id": 28,
+            "name": "Nohl Williams",
+            "number": "3",
+            "position": "CB",
+            "Hometown": "Oxnard, CA",
+            "Class": "Junior"
+        },
+        {
+            "id": 29,
+            "name": "Kaylin Moore",
+            "number": "0",
+            "position": "CB",
+            "Hometown": "Westlake Village, CA",
+            "Class": "Junior"
+        },
+        {
+            "id": 30,
+            "name": "Sai Vadrawale",
+            "number": "17",
+            "position": "CB",
+            "Hometown": "Concord, CA",
+            "Class": "Freshman"
+        },
+        {
+            "id": 31,
+            "name": "Matthew LittleJohn",
+            "number": "15",
+            "position": "S",
+            "Hometown": "San Antonio, TX",
+            "Class": "RS Junior"
+        },
+        {
+            "id": 32,
+            "name": "Craig Woodson",
+            "number": "2",
+            "position": "S",
+            "Hometown": "Grand Prairie, TX",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 33,
+            "name": "Raymond Woodie III",
+            "number": "5",
+            "position": "S",
+            "Hometown": "Palmetto, FL",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 34,
+            "name": "Miles Williams",
+            "number": "13",
+            "position": "S",
+            "Hometown": "Mansfield, TX",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 35,
+            "name": "Tiumalu Afalava",
+            "number": "90",
+            "position": "DL",
+            "Hometown": "Baldwin Park, CA",
+            "Class": "Freshman"
+        },
+        {
+            "id": 37,
+            "name": "Zurich Ashford",
+            "number": "91",
+            "position": "DL",
+            "Hometown": "Las Vegas, NV",
+            "Class": "Freshman"
+        },
+        {
+            "id": 38,
+            "name": "Frederick Williams III",
+            "number": "92",
+            "position": "DL",
+            "Hometown": "Los Angeles, CA",
+            "Class": "Freshman"
+        },
+        {
+            "id": 39,
+            "name": "Curlee Thomas IV",
+            "number": "19",
+            "position": "DL",
+            "Hometown": "Keller, TX",
+            "Class": "Sophomore"   
+        },
+        {
+            "id": 40,
+            "name": "Akili Calhoun",
+            "number": "95",
+            "position": "DL",
+            "Hometown": "Brentwood, CA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 41,
+            "name": "Derek Wilkins",
+            "number": "96",
+            "position": "DL",
+            "Hometown": "Irvine, CA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 43,
+            "name": "Nate Burrell",
+            "number": "98",
+            "position": "DL",
+            "Hometown": "Los Angeles, CA",
+            "Class": "Sophomore"
+        },
+        {
+            "id": 44,
+            "name": "Ethan Saunders",
+            "number": "99",
+            "position": "DL",
+            "Hometown": "Inglewood, CA",
+            "Class": "Senior"
+        },
+        {
+            "id": 45,
+            "name": "Brett Johnson",
+            "number": "90",
+            "position": "DL",
+            "Hometown": "Phoenix, AZ",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 46,
+            "name": "Nate Burrell",
+            "number": "98",
+            "position": "DL",
+            "Hometown": "Los Angeles, CA",
+            "Class": "Sophomore"
+        }
+    ]
+}
