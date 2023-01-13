@@ -386,6 +386,70 @@
             "position": "DL",
             "Hometown": "Los Angeles, CA",
             "Class": "Sophomore"
+        },
+        {
+            "id": 47,
+            "name": "Jackson Sirmon",
+            "number": "8",
+            "position": "ILB",
+            "Hometown": "Brentwood, TN",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 48,
+            "name": "Nate Rutchena",
+            "number": "42",
+            "position": "ILB",
+            "Hometown": "Danville, CA",
+            "Class": "Junior"
+        },
+        {
+            "id": 49,
+            "name": "Blake Antzoulatos",
+            "number": "51",
+            "position": "ILB",
+            "Hometown": "Simi Valley, CA",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 50,
+            "name": "Kaleb Elarms-Orr",
+            "number": "53",
+            "position": "ILB",
+            "Hometown": "Hayward, CA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 51,
+            "name": "Muelu Iosefa",
+            "number": "55",
+            "position": "ILB",
+            "Hometown": "Waipahu, HI",
+            "Class": "Senior"
+        },
+        {
+            "id": 52,
+            "name": "Ryan Puskas",
+            "number": "59",
+            "position": "ILB",
+            "Hometown": "Peoria, AZ",
+            "Class": "RS Senior"
+        },
+        {
+            "id": 53,
+            "name": "Sergio Allen",
+            "number": "60",
+            "position": "ILB",
+            "Hometown": "Fort Valley, GA",
+            "Class": "RS Sophomore"
+        },
+        {
+            "id": 54,
+            "name": "Cade Uluave",
+            "number": "61",
+            "position": "ILB",
+            "Hometown": "South Jordan, UT",
+            "Class": "Freshman"
         }
     ]
 }
