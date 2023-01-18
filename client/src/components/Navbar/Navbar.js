@@ -17,7 +17,7 @@ function Navbar() {
         <li className='p__opensans'><a href='#contact'></a>Contact</li>
       </ul>
       <div className='navbar_login'>
-        <a href='#login' className='p__opensans'>Log In/Register</a>
+        <a href='#login' className='p__opensans'>Log In / Register</a>
       </div>
     </nav>
   )

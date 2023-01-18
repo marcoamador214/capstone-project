@@ -97,10 +97,6 @@
   text-transform: capitalize;
 }
 
-.spoon__img {
-  width: 45px;
-}
-
 @media screen and (min-width: 2000px) {
   .custom__button,
   .p__cormorant {
