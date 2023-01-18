@@ -59,23 +59,27 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Offensive POTY',
+    subtitle: 'Jaydn Ott, RB',
+    image: images.JaydnPoty
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Defensive POTY',
+    subtitle: 'Daniel Scott, S',
+    image: images.danielPoty
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Freshman OTY',
+    subtitle: 'Jeremiah Earby, CB',
+    image: images.jerbo
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Team MVP',
+    subtitle: 'Jaydn Ott, RB',
+    image: images.jaydnMvp
   },
 ];
 

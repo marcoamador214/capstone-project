@@ -11,7 +11,7 @@ function Header() {
         <SubHeading title='CalBearsFball,'/>
         <h1 className='header-h1'>Your #1 source for Cal Football content</h1>
         <p className='p__opensans' style={{ margin: '2rem 0'}}>500+ posts, 3000+ followers</p>
-        <button type='button' className='custom__button'>Explore</button>
+        <button type='button' className='custom__button'>Explore ⬇️</button>
       </div>
       <div className='app__wrapper_img'>
         <img className='header_img' src={images.Myles} alt='Myles Williams'/>

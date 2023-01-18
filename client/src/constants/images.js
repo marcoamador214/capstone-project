@@ -18,7 +18,11 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import CalbearsFball from '../assets/CalbearsFball.jpg';
-import Myles from '../assets/Myles.jpg'
+import Myles from '../assets/Myles.jpg';
+import JaydnPoty from '../assets/JaydnPoty.jpg';
+import danielPoty from '../assets/danielPoty.jpg';
+import jaydnMvp from '../assets/jaydnMvp.jpg';
+import jerbo from '../assets/jerbo.jpg';
 
 export default {
   bg,
@@ -41,5 +45,9 @@ export default {
   sign,
   quote,
   CalbearsFball,
-  Myles
+  Myles,
+  JaydnPoty,
+  danielPoty,
+  jaydnMvp,
+  jerbo
 };
